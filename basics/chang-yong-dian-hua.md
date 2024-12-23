@@ -30,3 +30,7 @@
 > [2.平安集大公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MjI0MTQzNw==\&mid=2247496304\&idx=1\&sn=2c572e768768a5121bb04a26069632cf\&chksm=c3945c8f3fd28dbc79dedb70a28c526ca4ff03d3acbc5e223c4c1426df67d250470871ea4fc8#rd)
 >
 > [3.集大饮食](https://mp.weixin.qq.com/s?__biz=MjM5Nzk5MjQ1Mg==\&mid=2650839466\&idx=1\&sn=aade4a543fb2a56332382e6ebafc187b\&chksm=bcbc0076a9bd96916e7f3e9583ebc83baf9d9ac75317ab114f18fd40f34f650ccdab19b0e83f\&poc_token=HOc_aWejCmQ-msLZyFG0aLg1keLnqXyYKBp45D4U)
+>
+> [4.集大心理咨询中心](https://mp.weixin.qq.com/s?__biz=MzUyODExMzA3OQ==\&mid=2247557884\&idx=1\&sn=0f2bc37c79f084a983ee3831cf432355\&chksm=fb656d26ec077f110dd8e939573f2beb4e313ed0d6158734465878219842dc66d57f33e83d36#rd)
+>
+> [5.集美大学诚毅学院](https://mp.weixin.qq.com/s?__biz=MzU2NTQ5MjcyMg==\&mid=2247561020\&idx=1\&sn=22af81f68fa7137cbc3b406b193f6bec\&chksm=fd0bd1b09e65302df6edaf10411578b25edf075e841a3d95002b11ecdfed2136821be30c47cc#rd)
