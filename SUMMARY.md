@@ -6,4 +6,4 @@
 
 ## 常用信息 <a href="#basics" id="basics"></a>
 
-* [集美大学2024-2025学年校历](basics/ji-mei-da-xue-20242025-xue-nian-xiao-li.md)
+* [集美大学2024-2025学年校历](basics/school_calendar.md)
