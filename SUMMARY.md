@@ -1,7 +1,6 @@
 # Table of contents
 
 * [首页](README.md)
-* [校园内网访问指南](vpn.md)
 
 ## 常用信息 <a href="#basics" id="basics"></a>
 
@@ -10,3 +9,11 @@
 ## 学习 <a href="#learning" id="learning"></a>
 
 * [作息时间](learning/zuo-xi-shi-jian.md)
+
+## 生活 <a href="#campus" id="campus"></a>
+
+* [宿舍](campus/su-she.md)
+
+***
+
+* [校园内网访问指南](vpn.md)
