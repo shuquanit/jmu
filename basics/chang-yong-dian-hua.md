@@ -8,9 +8,20 @@
 
 ### 我在学校遇到了紧急情况，我应该联系谁？ <a href="#id-3" id="id-3"></a>
 
-
-
 <table><thead><tr><th width="257">单位</th><th>电话</th></tr></thead><tbody><tr><td>集美大学党委保卫部（处）</td><td>0582-6185110</td></tr><tr><td>集美大学医疗中心</td><td>0592-6186566；0592-6181673</td></tr></tbody></table>
+
+请同时向辅导员报告有关情况。
+
+### 我无法处理自己的情绪，我应该找谁？ <a href="#id-4" id="id-4"></a>
+
+|                    |                  |
+| ------------------ | ---------------- |
+| 集大心理咨询中心           | **0592-6183190** |
+| 集美大学诚毅学院心理健康教育咨询中心 | 0592-6185525     |
+
+{% hint style="danger" %}
+这个世界虽然不完美，但总有人守护着你，请同时向辅导员报告有关情况。
+{% endhint %}
 
 > 信息来源：
 >
@@ -19,4 +30,3 @@
 > [2.平安集大公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MjI0MTQzNw==\&mid=2247496304\&idx=1\&sn=2c572e768768a5121bb04a26069632cf\&chksm=c3945c8f3fd28dbc79dedb70a28c526ca4ff03d3acbc5e223c4c1426df67d250470871ea4fc8#rd)
 >
 > [3.集大饮食](https://mp.weixin.qq.com/s?__biz=MjM5Nzk5MjQ1Mg==\&mid=2650839466\&idx=1\&sn=aade4a543fb2a56332382e6ebafc187b\&chksm=bcbc0076a9bd96916e7f3e9583ebc83baf9d9ac75317ab114f18fd40f34f650ccdab19b0e83f\&poc_token=HOc_aWejCmQ-msLZyFG0aLg1keLnqXyYKBp45D4U)
-
