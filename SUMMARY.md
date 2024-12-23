@@ -5,6 +5,7 @@
 ## 常用信息 <a href="#basics" id="basics"></a>
 
 * [集美大学2024-2025学年校历](basics/school_calendar.md)
+* [常用电话](basics/chang-yong-dian-hua.md)
 
 ## 学习 <a href="#learning" id="learning"></a>
 
