@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
-* [VPN使用小贴士](vpn-shi-yong-xiao-tie-shi.md)
+* [校园内网访问指南](vpn.md)
 
 ## 常用信息 <a href="#basics" id="basics"></a>
 
