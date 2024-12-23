@@ -1,5 +1,20 @@
 ---
-coverY: 0
+cover: .gitbook/assets/给集美大学与翔安白鹭体育场来张合影_2_📸Ransley_来自小红书网页版.jpg
+coverY: 161
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 首页
@@ -13,3 +28,7 @@ coverY: 0
 ### 联系方式
 
 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，可邮件联系[admin@sqxy.cn](mailto:admin@sqxy.cn)。
+
+
+
+> 封面图片来自小红书[https://www.xiaohongshu.com/discovery/item/65addba2000000002c016dbd?source=webshare\&xhsshare=pc\_web\&xsec\_token=AB1VJhHb](https://www.xiaohongshu.com/discovery/item/65addba2000000002c016dbd?source=webshare\&xhsshare=pc_web\&xsec_token=AB1VJhHb)
