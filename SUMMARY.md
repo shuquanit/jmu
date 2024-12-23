@@ -12,7 +12,8 @@
 
 ## 生活 <a href="#campus" id="campus"></a>
 
-* [宿舍](campus/su-she.md)
+* [宿舍](campus/su-she/README.md)
+  * [嘉庚校区](campus/su-she/jia-geng-xiao-qu.md)
 
 ***
 
